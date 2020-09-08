@@ -1,0 +1,114 @@
+{
+  "main": {
+    "name": "Daniel MUGISHA",
+    "occupation": "Software Developer Working as a freelancer",
+    "description": "Full Stack Software developer, Wordpress developer & content manager #Denzo",
+    "image": "denzo_profile.png",
+    "bio": "My name is Daniel, I'm an inovative Full Stack Software Developer, working on web applications, websites, stand-alone applications, industrial automation and mobile applications",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "dmugisha189@gmail.com",
+    "phone": "+250 782 035 937",
+    "address": {
+      "street": "453 Prank Street",
+      "city": "Kigali",
+      "state": "RWANDA",
+      "zip": "DEN 453"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/danieldenzo/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/daniel-mugisha-5295a1108/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/daniel_rwibasira",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/danielMugisha",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Timely, accurate and quality products that's what I offer in my codes",
+    "education": [
+      {
+        "school": "University of Rwanda",
+        "degree": "Bachelors of Science in Computer and Software Engineering",
+        "graduated": "November 2019"
+      }
+    ],
+    "work": [
+      {
+        "company": "Freelancer",
+        "title": "Software Developer",
+        "years": "August 2020 - Present",
+        "description": "Working with various clients"
+      },
+      {
+        "company": "High Hill Software Ltd",
+        "title": "Microsoft Full Stack Developer",
+        "years": "August 2019 - August 2020",
+        "description": "Building TIPS/4, automation solution for paper industries"
+      }
+    ],
+    "skills": [
+      {
+        "name": "JavaScript",
+        "level": "70%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": ".Net Core & C#",
+        "level": "80%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "Adobe XD",
+        "level": "65%"
+      },
+      {
+        "name": "HTML5",
+        "level": "90%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "60%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "TIPS/4 (Tieto Integrated Production Solution/4)",
+        "category": "Automation solution built with (.Net Core, C#, TypeScript, Razor, SQL Database)",
+        "image": "Tips4.PNG",
+        "url": "https://www.tieto.com/de/unsere-losungen/holz-papier-und-verpackung/Pulp-Papier/supply-chain/tieto-integrated-production-solution-tips4/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "During our time together, Daniel was responsible for writing clean code, debugging, and writing unit tests and to collaborate as a team member and he was good at his job.",
+        "user": "Pekka Sintonen"
+      }
+    ]
+  }
+}
