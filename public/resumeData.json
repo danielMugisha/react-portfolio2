@@ -100,6 +100,12 @@
         "category": "Automation solution built with (.Net Core, C#, TypeScript, Razor, SQL Database)",
         "image": "Tips4.PNG",
         "url": "https://www.tieto.com/de/unsere-losungen/holz-papier-und-verpackung/Pulp-Papier/supply-chain/tieto-integrated-production-solution-tips4/"
+      },
+      {
+        "title": "Amazon-clone",
+        "category": "e-commerce",
+        "image": "amazon-clone.PNG",
+        "url": "https://compassionate-kare-38bbca.netlify.app/"
       }
     ]
   },
